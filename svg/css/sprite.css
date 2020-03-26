@@ -1,5 +1,5 @@
 .svg-bookmark {
-	background: url("svg/sprite.css-6792f803.svg") 84.90566037735849% 51.578947368421055% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 84.90566037735849% 51.578947368421055% no-repeat;
 }
 
 .svg-bookmark-dims {
@@ -8,7 +8,7 @@
 }
 
 .svg-bookmark-active {
-	background: url("svg/sprite.css-6792f803.svg") 99% 20.454545454545453% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 99% 20.454545454545453% no-repeat;
 }
 
 .svg-bookmark-active-dims {
@@ -26,7 +26,7 @@
 }
 
 .svg-contact-facebook {
-	background: url("svg/sprite.css-6792f803.svg") 44.339622641509436% 73.25581395348837% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 44.339622641509436% 73.25581395348837% no-repeat;
 }
 
 .svg-contact-facebook-dims {
@@ -35,7 +35,7 @@
 }
 
 .svg-contact-phone {
-	background: url("svg/sprite.css-6792f803.svg") 100% 0 no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 100% 0 no-repeat;
 }
 
 .svg-contact-phone-dims {
@@ -44,7 +44,7 @@
 }
 
 .svg-contact-vk {
-	background: url("svg/sprite.css-6792f803.svg") 73.6842105263158% 52.68817204301075% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 73.6842105263158% 52.68817204301075% no-repeat;
 }
 
 .svg-contact-vk-dims {
@@ -53,7 +53,7 @@
 }
 
 .svg-map-event {
-	background: url("svg/sprite.css-6792f803.svg") 100% 57.77777777777778% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 100% 57.77777777777778% no-repeat;
 }
 
 .svg-map-event-dims {
@@ -62,7 +62,7 @@
 }
 
 .svg-map-position {
-	background: url("svg/sprite.css-6792f803.svg") 0 44.73684210526316% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 0 44.73684210526316% no-repeat;
 }
 
 .svg-map-position-dims {
@@ -71,7 +71,7 @@
 }
 
 .svg-menu-feed {
-	background: url("svg/sprite.css-6792f803.svg") 52.63157894736842% 40.963855421686745% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 52.63157894736842% 40.963855421686745% no-repeat;
 }
 
 .svg-menu-feed-dims {
@@ -80,7 +80,7 @@
 }
 
 .svg-menu-feed-active {
-	background: url("svg/sprite.css-6792f803.svg") 28.42105263157895% 75.90361445783132% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 28.42105263157895% 75.90361445783132% no-repeat;
 }
 
 .svg-menu-feed-active-dims {
@@ -89,7 +89,7 @@
 }
 
 .svg-menu-map {
-	background: url("svg/sprite.css-6792f803.svg") 0 0 no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 0 0 no-repeat;
 }
 
 .svg-menu-map-dims {
@@ -98,7 +98,7 @@
 }
 
 .svg-menu-map-active {
-	background: url("svg/sprite.css-6792f803.svg") 43.75% 0 no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 43.75% 0 no-repeat;
 }
 
 .svg-menu-map-active-dims {
@@ -107,7 +107,7 @@
 }
 
 .svg-menu-profile {
-	background: url("svg/sprite.css-6792f803.svg") 79.54545454545455% 29.11392405063291% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 79.54545454545455% 29.11392405063291% no-repeat;
 }
 
 .svg-menu-profile-dims {
@@ -116,7 +116,7 @@
 }
 
 .svg-menu-profile-active {
-	background: url("svg/sprite.css-6792f803.svg") 0 79.74683544303798% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 0 79.74683544303798% no-repeat;
 }
 
 .svg-menu-profile-active-dims {
@@ -125,7 +125,7 @@
 }
 
 .svg-menu-search {
-	background: url("svg/sprite.css-6792f803.svg") 24.41860465116279% 41.46341463414634% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 24.41860465116279% 41.46341463414634% no-repeat;
 }
 
 .svg-menu-search-dims {
@@ -134,7 +134,7 @@
 }
 
 .svg-menu-search-active {
-	background: url("svg/sprite.css-6792f803.svg") 81.3953488372093% 0 no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 81.3953488372093% 0 no-repeat;
 }
 
 .svg-menu-search-active-dims {
@@ -143,7 +143,7 @@
 }
 
 .svg-slider-hottest {
-	background: url("svg/sprite.css-6792f803.svg") 99% 39.77272727272727% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 99% 39.77272727272727% no-repeat;
 }
 
 .svg-slider-hottest-dims {
@@ -152,7 +152,7 @@
 }
 
 .svg-slider-nearest {
-	background: url("svg/sprite.css-6792f803.svg") 95.1923076923077% 74.44444444444444% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 95.1923076923077% 74.44444444444444% no-repeat;
 }
 
 .svg-slider-nearest-dims {
@@ -161,7 +161,7 @@
 }
 
 .svg-slider-tour {
-	background: url("svg/sprite.css-6792f803.svg") 0 100% no-repeat;
+	background: url("./svg/sprite.css-6792f803.svg") 0 100% no-repeat;
 }
 
 .svg-slider-tour-dims {
