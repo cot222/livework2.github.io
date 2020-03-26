@@ -385,7 +385,7 @@ svg.profile-feed {
           right: 12px;
           width: 9px;
           height: 10px;
-          background: url(/svg/sprite.svg#bookmark) center center no-repeat; }
+          background: url(svg/sprite.svg#bookmark) center center no-repeat; }
         .home .home-content .home-feed .feed-content .content-item.video {
           position: relative;
           height: auto;
@@ -488,7 +488,7 @@ svg.profile-feed {
       .map .bottom-panel .panel-events .events-img {
         width: 16px;
         height: 15px;
-        background: url("/svg/sprite.svg#map-event") center center no-repeat; }
+        background: url("svg/sprite.svg#map-event") center center no-repeat; }
       .map .bottom-panel .panel-events .events-num {
         position: absolute;
         top: 0;
@@ -515,7 +515,7 @@ svg.profile-feed {
       .map .bottom-panel .panel-coordinate .coordinate-img {
         width: 13px;
         height: 18px;
-        background: url("/svg/sprite.svg#map-position") center center no-repeat; }
+        background: url("svg/sprite.svg#map-position") center center no-repeat; }
   .map .events-block {
     position: absolute;
     display: none;
@@ -643,7 +643,7 @@ svg.profile-feed {
           right: 12px;
           width: 9px;
           height: 10px;
-          background: url(/svg/sprite.svg#bookmark) center center no-repeat; }
+          background: url(svg/sprite.svg#bookmark) center center no-repeat; }
         .map .events-block .block-content .content-item .event-block {
           position: absolute;
           top: 24px;
